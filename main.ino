@@ -11,6 +11,8 @@
 //
 // All text above must be included in any redistribution.
 
+// DASHBOARD LINK: https://io.adafruit.com/jpwall/dashboards/session2
+
 #include "config.h"
 
 // The green LED is connected to pin 32
